@@ -38,3 +38,17 @@ html,body{
 .links a{
     font-size: 12px;
 }
+
+.layui-form-item{
+    position: relative;
+}
+
+.layui-icon {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+.layui-form-item > .layui-input {
+    padding-left: 30px;
+}
