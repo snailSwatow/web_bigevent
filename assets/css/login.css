@@ -3,7 +3,7 @@ html,body{
     padding: 0;
     height: 100%;
     width: 100%;
-    background: url('/project_cms/assets/images/login_bg.jpg') no-repeat;
+    background: url('/assets/images/login_bg.jpg') no-repeat;
     background-size: cover;
 }
 
@@ -19,7 +19,7 @@ html,body{
 
 .title-box{
     height: 60px;
-    background: url('/project_cms/assets/images/login_title.png') no-repeat center;
+    background: url('/assets/images/login_title.png') no-repeat center;
 }
 
 .reg-box{
